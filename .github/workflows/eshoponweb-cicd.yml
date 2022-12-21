@@ -9,7 +9,7 @@ env:
   LOCATION: france
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: a8095c2d-2c7f-41df-a144-010f1cb0aab4
-  WEBAPP-NAME: az400-webapp-NAME
+  WEBAPP-NAME: az400-webapp-cga20221221
 
 
 jobs:
